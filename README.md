@@ -250,53 +250,58 @@ plt.show()
 ```
 
 ## Output:
-- **i)** Read and Display an Image.
-- 1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
+
+#  **i)** Read and Display an Image.
+
+# 1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
 
 ![image](https://github.com/user-attachments/assets/8fbee7a1-6682-4ebc-bf5d-0e99168fe414)
 
-  2.Save image as PNG and display:
+# 2.Save image as PNG and display:
 
 ![image](https://github.com/user-attachments/assets/f3c7b81e-a1d3-47d8-8bce-41506c62019f)
 
-  3.Cropped image:
+# 3.Cropped image:
 
 ![image](https://github.com/user-attachments/assets/6844ce30-4221-4a0f-baa4-ffb871f70048)
 
-  4.Resize and flip Horizontally:
+# 4.Resize and flip Horizontally:
   
 ![image](https://github.com/user-attachments/assets/52f120d2-1e32-4f45-8ca6-30b834ada0d1)
 
-  5.Read 'Apollo-11-launch.jpg' and  Display the final annotated image:
+# 5.Read 'Apollo-11-launch.jpg' and  Display the final annotated image:
 
 ![image](https://github.com/user-attachments/assets/f9f8af66-0811-4ef7-93dd-26fd825533b7)
-- **ii)** Adjust Image Brightness.
-- 1.Create brighter and darker images and display:
+
+# **ii)** Adjust Image Brightness.
+
+# 1.Create brighter and darker images and display:
 
 ![image](https://github.com/user-attachments/assets/f3d0d3c8-ec57-4e26-a465-6ffda3013a4c)
   
-- **iii)** Modify Image Contrast.
--  1. Modify contrast using scaling factors 1.1 and 1.2:
+# **iii)** Modify Image Contrast.
+
+# 1. Modify contrast using scaling factors 1.1 and 1.2:
 
 ![image](https://github.com/user-attachments/assets/6b62e423-7f57-444e-bf5b-c739da8cdd43)
 
 
-- **iv)** Generate Third Image Using Bitwise Operations.
+# **iv)** Generate Third Image Using Bitwise Operations.
 
-- 1.Split 'Boy.jpg' into B, G, R components and display:
+# 1.Split 'Boy.jpg' into B, G, R components and display:
 
 ![image](https://github.com/user-attachments/assets/377fdfc6-4567-475c-a7e9-0b3508b685c2)
 
-2.Merge the R, G, B channels and display:
+# 2.Merge the R, G, B channels and display:
 
 ![image](https://github.com/user-attachments/assets/09d5507f-ae48-4ab3-bc7d-9b7466ce7e81)
 
-3.Split the image into H, S, V components and display:
+# 3.Split the image into H, S, V components and display:
 
 ![image](https://github.com/user-attachments/assets/636cfcda-8dc0-4354-97d5-23a71adaa1ac)
 
 
-4.Merge the H, S, V channels and display:
+# 4.Merge the H, S, V channels and display:
 
 ![image](https://github.com/user-attachments/assets/3c8fa07d-31ff-4b14-87c1-061ffef0447e)
 
